@@ -1,3 +1,3 @@
 # Certificate_Google-Analytics-Academy
 
-![Google Tag Manager Fundamentals Course certificate](/Google Analytics Academy Certificate/Advanced Google Analytics Course_Certificate 21 Aug 2019.png)
+![Google Tag Manager Fundamentals Course certificate](Google_Analytics_Academy_Certificate/Advanced_Google_Analytics_Course_Certificate_21_Aug_2019.png)
