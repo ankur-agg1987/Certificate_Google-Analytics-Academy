@@ -18,7 +18,7 @@
 
 ## 5. Introduction to Data Studio Course certificate completed on 21 August 2019
 ###### https://analytics.google.com/analytics/academy/certificate/8VK59XwsTwa_l_x93moNxQ
-![Google Tag Manager Fundamentals Course certificate](Google_Analytics_Academy_Certificate/Introduction_to_Data_Studio_Course_Certificate_21_Aug_2019.png
+![Google Tag Manager Fundamentals Course certificate](Google_Analytics_Academy_Certificate/Introduction_to_Data_Studio_Course_Certificate_21_Aug_2019.png)
 
 
 ## 6. Google Tag Manager Fundamentals Course certificate completed on 21 August 2019
